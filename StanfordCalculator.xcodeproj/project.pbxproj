@@ -97,12 +97,9 @@
 		600375DE1D63B27100E34F72 /* StanfordCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				600375DF1D63B27100E34F72 /* AppDelegate.swift */,
 				600375E11D63B27100E34F72 /* ViewController.swift */,
 				600375E31D63B27100E34F72 /* Main.storyboard */,
-				600375E61D63B27100E34F72 /* Assets.xcassets */,
-				600375E81D63B27100E34F72 /* LaunchScreen.storyboard */,
-				600375EB1D63B27100E34F72 /* Info.plist */,
+				6003760D1D63B65A00E34F72 /* Supporting Files */,
 			);
 			path = StanfordCalculator;
 			sourceTree = "<group>";
@@ -123,6 +120,17 @@
 				600376011D63B27100E34F72 /* Info.plist */,
 			);
 			path = StanfordCalculatorUITests;
+			sourceTree = "<group>";
+		};
+		6003760D1D63B65A00E34F72 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				600375DF1D63B27100E34F72 /* AppDelegate.swift */,
+				600375E61D63B27100E34F72 /* Assets.xcassets */,
+				600375E81D63B27100E34F72 /* LaunchScreen.storyboard */,
+				600375EB1D63B27100E34F72 /* Info.plist */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
